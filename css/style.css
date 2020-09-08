@@ -10896,6 +10896,18 @@ article.article .content .message.message-immersive .message-body {
 .article-licensing .licensing-meta a {
   color: inherit;
 }
+a.article-nav-prev span {
+  text-align: left;
+  flex-shrink: 1;
+  word-wrap: break-word;
+  white-space: normal;
+}
+a.article-nav-next span {
+  text-align: right;
+  flex-shrink: 1;
+  word-wrap: break-word;
+  white-space: normal;
+}
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
